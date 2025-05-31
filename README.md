@@ -13,28 +13,6 @@ PNG images visualizing the task given
 
 The repository is organized by scenario and question (e.g., S1Q1, S1Q2, S2Q1, S2Q2), making it easy to follow and reproduce results.
 
-### Repository Structure
-
-Path-planning-/
-│
-├── S1Q1.py        # Python script for Scenario 1, Question 1
-├── S1Q1.csv       # Data output for S1Q1
-├── S1Q1.png       # Visualization for S1Q1
-│
-├── S1Q2.py
-├── S1Q2.csv
-├── S1Q2.png
-│
-├── S2Q1.py
-├── S2Q1.csv
-├── S2Q1.png
-│
-├── S2Q2.py
-├── S2Q2.csv
-├── S2Q2.png
-│
-└── README.md      # Project documentation
-
 ### Features
 
 - Python scripts for multiple path planning scenarios
