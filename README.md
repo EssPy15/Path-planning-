@@ -3,7 +3,7 @@
 A Python-based collection of scripts and data for path planning tasks, including code, datasets, and visualizations.
 
 # Overview
-This repository provides Python implementations for various path planning scenarios. Each scenario includes:
+This repository provides Python implementations for various path planning scenarios. The algorithm used for finding the shortest path was A* algorithm an enhanced version of Djikstra’s algorithm. Each scenario includes:
 
 Python scripts for path planning logic
 
